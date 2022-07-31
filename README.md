@@ -4,6 +4,9 @@
 
 ![profile](https://github-profile-trophy.vercel.app/?username=rnben&theme=algolia&column=8)
 
+![snake](./assets/github-contribution-grid-snake.svg)
+
+![](https://activity-graph.herokuapp.com/graph?username=rnben&theme=github)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rnben.visitor-badge)
 
