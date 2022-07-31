@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rnben.visitor-badge)
+
 <!--
 **rnben/rnben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
